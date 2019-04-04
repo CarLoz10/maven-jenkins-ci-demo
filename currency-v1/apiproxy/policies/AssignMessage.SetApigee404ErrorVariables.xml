@@ -7,7 +7,7 @@
 
 	<AssignVariable>
 		<Name>flow.apigee.error.message</Name>
-		<Value>Invalid Date</Value>
+		<Value>Invalid date</Value>
 	</AssignVariable>
 
 	<AssignVariable>
